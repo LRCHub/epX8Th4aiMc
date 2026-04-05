@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Hey, Hey, What Can I Do (Remaster)",
+  "base_artist": "Led Zeppelin",
+  "createdAt": "2026-04-05T06:51:57.134579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey, Hey, What Can I Do (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_Hey,_Hey,_What_Can_I_Do_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey, Hey, What Can I Do - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/02_Hey,_Hey,_What_Can_I_Do_-_Remaster_Led_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Hey What Can I Do  (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/03_Hey_Hey_What_Can_I_Do_(Remaster)_Led_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "15.Hey, Hey, What Can I Do - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/04_15.Hey,_Hey,_What_Can_I_Do_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey, Hey, What Can I Do (Remaster) (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/05_Hey,_Hey,_What_Can_I_Do_(Remaster)_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey, Hey, What Can I Do (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/06_Hey,_Hey,_What_Can_I_Do_(Remaster)_Led_Zeppelin.txt"
+    }
+  ]
+}
