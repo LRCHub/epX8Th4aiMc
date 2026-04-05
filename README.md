@@ -1,0 +1,68 @@
+# Led Zeppelin – Hey, Hey, What Can I Do (Remaster)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.00] Wanna tell you about the girl I love
+[00:19.90] My, she looks so fine
+[00:23.06] Ah, she's the only one that I been dreamin' of
+[00:25.76] Maybe someday she will be all mine
+[00:42.76] 
+[00:28.93] I wanna tell her that I love her so
+[00:32.14] I thrill with her every touch
+[00:35.34] I need to tell her she's the only one I really love
+[01:00.84] 
+[00:44.22] I got a woman, wanna ball all day
+[00:50.47] I got a woman, she won't be true, no
+[00:56.78] I got a woman, stay drunk all the time
+[01:02.40] I said I got a little woman and she won't be true
+[01:26.90] 
+[01:06.64] Sunday morning, when we go down to church
+[01:09.01] See the menfolk standin' in line
+[01:12.58] Who say they come to pray to the Lord
+[01:15.16] With my little girl, looks so fine
+[01:32.16] 
+[01:18.77] In the evening when the sun is sinkin' low
+[01:21.58] Everybody's with the one they love
+[01:24.73] I walk the town, keep a-searchin' all around
+[01:27.90] Lookin' for my street corner girl
+[01:44.40] 
+[01:33.53] I got a woman, wanna ball all day, yeah
+[01:39.60] I got a woman, she won't be true, no, no
+[01:45.52] I got a woman, stay drunk all the time
+[01:51.73] I said I got a little woman and she won't be true
+[02:16.23] 
+[01:55.84] In the bars, with the men who play guitars
+[01:58.04] Singin', drinkin' and rememberin' the times
+[02:01.41] My little lover does a midnight shift
+[02:04.46] She followed around all the time
+[02:20.46] 
+[02:07.68] I guess there's just one thing a-left for me to do
+[02:10.46] Gonna pack my bags and move on my way
+[02:13.39] 'Cause I got a worried mind sharin' what I thought was mine
+[02:17.27] Gonna leave her where the guitars play
+[02:36.27] 
+[02:22.25] I got a woman, she won't be true, no, no
+[02:28.58] I got a woman, wanna ball all day, yeah, yeah
+[02:34.94] I got a woman, stay drunk all the time
+[02:40.52] I got a little woman and she won't be true
+[02:44.72] I said she won't be true, no
+[02:58.72] 
+[02:48.28] Yeah, no, yeah, no
+[02:50.57] Yeah, no, yeah, no (hey, hey, what can I say?)
+[02:53.94] Ah (hey, hey, what can I do)
+[02:57.06] Keep on, keep on, keep on, keep on
+[03:14.06] 
+[03:05.05] (No, no, what can I say?) she won't
+[03:08.54] Keep on, keep on, keep on, keep on (hey, hey, what can I do?)
+[03:14.20] (No, no, what can I say?)
+[03:18.76] (Hey, hey, what can I do?)
+[03:22.51] (No, no, what can I say?)
+[03:26.67] Hey, hey what can I do
+[03:37.67] 
+[03:29.73] I got a woman, she won't be true
+[03:33.08] Oh-whoa-whoa-whoa, hear what I said
+[03:35.61] I got a woman, wanna ball all day
+[03:38.84] (No, no, what can I say?) keep on, keep on
+[03:42.62] (Hey, hey, what can I do?)
+```
